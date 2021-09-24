@@ -1,0 +1,1 @@
+{"jobID":"8c8529a0-8bd3-cc2f-5cd4-e96fe98b3452","spec":{"type":"policy","cause":{"Message":"","User":"fdmoor \u003cfrederik@fdemoor.be\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
